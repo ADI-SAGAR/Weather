@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const themeButtons = document.querySelectorAll('.theme-btn');
     
     // API Key - Replace with your actual OpenWeatherMap API key
-    const API_KEY = 9ca0b1230abd6528bad9efa3075e75f5;
+    const API_KEY = '9ca0b1230abd6528bad9efa3075e75f5';
     let currentTheme = 'light';
     
     // Make container draggable
